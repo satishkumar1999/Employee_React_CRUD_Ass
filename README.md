@@ -25,9 +25,9 @@ Basic UI for user interaction.
 # 🔧 Installation & Setup
 1️⃣  Clone the Repository
 
-git clone https://github.com/your-username/react-user-management.git
+git clone https://github.com/satishkumar1999/Employee_React_CRUD_Ass
 
-cd react-user-management
+cd employwise-assignment
 
 2️⃣ Install Dependencies
 
@@ -38,6 +38,31 @@ npm install
 npm start
 
 The app will start at http://localhost:3000
+
+
+# ✨ How It Works
+
+Login Page: Users enter their email & password → Click login → Redirects to the user list.
+
+User List Page: Displays users fetched from the Reqres API.
+
+Edit User: Clicking "Edit" allows updating user details.
+
+Delete User: Clicking "Delete" removes the user.
+
+
+# 📸 Screenshots
+
+1️⃣ Login Page
+
+![Login](https://github.com/user-attachments/assets/40114ad2-0aa9-47e0-a364-b0f5ae889023)
+
+2️⃣ User List Page
+
+![UserList](https://github.com/user-attachments/assets/7b0116b5-5670-48bc-a334-ef5bd86cd856)
+
+
+
 
 
 
