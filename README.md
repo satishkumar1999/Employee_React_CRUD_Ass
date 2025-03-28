@@ -22,6 +22,22 @@ Basic UI for user interaction.
 ![dummy](https://github.com/user-attachments/assets/c6609c6f-65cf-45fe-b89e-6adf0cdca754)
 
 
+# 🔧 Installation & Setup
+1️⃣  Clone the Repository
+git clone https://github.com/your-username/react-user-management.git
+cd react-user-management
+2️⃣ Install Dependencies
+npm install
+3️⃣ Start the React App
+npm start
+The app will start at http://localhost:3000
+
+
+
+
+
+
+
 
 
 
