@@ -18,20 +18,9 @@ Basic UI for user interaction.
 
 
 # 📂 Folder Structure
-employwise-assignment/
-│── public/
-│── src/
-│   ├── components/
-│   │   ├── Login.js
-│   │   ├── UserList.js
-│   │   ├── EditUser.js
-│   ├── services/
-│   │   ├── api.js
-│   ├── App.js
-│   ├── index.js
-│   ├── styles.css
-│── package.json
-│── README.md
+
+![dummy](https://github.com/user-attachments/assets/c6609c6f-65cf-45fe-b89e-6adf0cdca754)
+
 
 
 
