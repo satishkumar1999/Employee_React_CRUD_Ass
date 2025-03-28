@@ -61,6 +61,14 @@ Delete User: Clicking "Delete" removes the user.
 
 ![UserList](https://github.com/user-attachments/assets/7b0116b5-5670-48bc-a334-ef5bd86cd856)
 
+# 📝 License
+This project is open-source and available under the MIT License.
+
+# 📬 Contact
+If you have any questions, feel free to contact Satish kumar at raj715255@gmail.com.
+
+
+
 
 
 
